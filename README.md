@@ -17,8 +17,11 @@ hw1
 ###Problem 2
 
 ####Part (a):
-3.
+1, 3.
 ####Part (b):
-2, 3, 4, 5.
+#####1:
+git add hw1q2b.cpp
+#####2:
+git log
 ####Part (c):
-3.
+it will ask for the git message and if it's empty the commit will be cancelled.
